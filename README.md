@@ -17,7 +17,7 @@
 安装完成后，命令行定位到lib目录，执行下方命令
 > promises-aplus-tests promise.js
 
-在大改1分钟后，命令行中输出"872 passing"说明测试通过
+在大约1分钟后，命令行中输出"872 passing"说明测试通过
 
 
 ## 相关资料
