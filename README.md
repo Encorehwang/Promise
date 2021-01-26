@@ -3,7 +3,7 @@
 
 
 ## 核心代码
-该简易库的代码都在lib/promise.js中
+该简易Promise库的核心代码都在lib/promise.js中
 
 
 ## 浏览器运行
