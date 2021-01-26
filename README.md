@@ -12,10 +12,14 @@
 
 ## 测试是否符合PromiseA+标准
 在命令行中执行如下命令安装promises-aplus-test
-> npm i -g promises-aplus-test
+```node
+npm i -g promises-aplus-test
+```
 
 安装完成后，命令行定位到lib目录，执行下方命令
-> promises-aplus-tests promise.js
+```node
+promises-aplus-tests promise.js
+```
 
 在大约1分钟后，命令行中输出"872 passing"说明测试通过
 
